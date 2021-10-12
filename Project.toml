@@ -1,0 +1,9 @@
+[deps]
+DSP = "717857b8-e6f2-59f4-9121-6e50c889abd2"
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+Genie = "c43c736e-a2d1-11e8-161f-af95117fbd1e"
+Literate = "98b081ad-f1c9-55d3-8b20-4c87d4299306"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+Stipple = "4acbeb90-81a0-11ea-1966-bdaff8155998"
+StippleUI = "a3c5d34a-b254-4859-a8fa-b86abb7e84a3"
+Weave = "44d3d7a6-8a23-5bf8-98c5-b353f8df5ec9"
