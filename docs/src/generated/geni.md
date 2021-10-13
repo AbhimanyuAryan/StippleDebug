@@ -7,10 +7,10 @@ This is example
 ````@example geni
 using Genie
 
-@assert 43 == 43 #hide
-````
+a = 234 #hide
 
-hello health
+html""" <iframe width="400" height="300" src="https://www.youtube.com/embed/a3ICNMQW7Ok?controls=0"></iframe> """ #hide
+````
 
 ---
 
